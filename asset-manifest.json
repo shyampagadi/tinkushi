@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shyampagadi/tinkushi/static/css/main.99ab8ab5.chunk.css",
-    "main.js": "/shyampagadi/tinkushi/static/js/main.689ab2a5.chunk.js",
-    "main.js.map": "/shyampagadi/tinkushi/static/js/main.689ab2a5.chunk.js.map",
-    "runtime-main.js": "/shyampagadi/tinkushi/static/js/runtime-main.1fb1e31e.js",
-    "runtime-main.js.map": "/shyampagadi/tinkushi/static/js/runtime-main.1fb1e31e.js.map",
-    "static/js/2.50e2063b.chunk.js": "/shyampagadi/tinkushi/static/js/2.50e2063b.chunk.js",
-    "static/js/2.50e2063b.chunk.js.map": "/shyampagadi/tinkushi/static/js/2.50e2063b.chunk.js.map",
-    "index.html": "/shyampagadi/tinkushi/index.html",
-    "precache-manifest.ceecd7a6c147499ec845d9ac10467a8d.js": "/shyampagadi/tinkushi/precache-manifest.ceecd7a6c147499ec845d9ac10467a8d.js",
-    "service-worker.js": "/shyampagadi/tinkushi/service-worker.js",
-    "static/css/main.99ab8ab5.chunk.css.map": "/shyampagadi/tinkushi/static/css/main.99ab8ab5.chunk.css.map",
-    "static/js/2.50e2063b.chunk.js.LICENSE.txt": "/shyampagadi/tinkushi/static/js/2.50e2063b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/shyampagadi/tinkushi/static/media/logo.5d5d9eef.svg"
+    "main.css": "/tinkushi/static/css/main.99ab8ab5.chunk.css",
+    "main.js": "/tinkushi/static/js/main.dd53ee17.chunk.js",
+    "main.js.map": "/tinkushi/static/js/main.dd53ee17.chunk.js.map",
+    "runtime-main.js": "/tinkushi/static/js/runtime-main.1aba90de.js",
+    "runtime-main.js.map": "/tinkushi/static/js/runtime-main.1aba90de.js.map",
+    "static/js/2.50e2063b.chunk.js": "/tinkushi/static/js/2.50e2063b.chunk.js",
+    "static/js/2.50e2063b.chunk.js.map": "/tinkushi/static/js/2.50e2063b.chunk.js.map",
+    "index.html": "/tinkushi/index.html",
+    "precache-manifest.e45c7a2c5298ae43484b6a2858be4f8c.js": "/tinkushi/precache-manifest.e45c7a2c5298ae43484b6a2858be4f8c.js",
+    "service-worker.js": "/tinkushi/service-worker.js",
+    "static/css/main.99ab8ab5.chunk.css.map": "/tinkushi/static/css/main.99ab8ab5.chunk.css.map",
+    "static/js/2.50e2063b.chunk.js.LICENSE.txt": "/tinkushi/static/js/2.50e2063b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tinkushi/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1fb1e31e.js",
+    "static/js/runtime-main.1aba90de.js",
     "static/js/2.50e2063b.chunk.js",
     "static/css/main.99ab8ab5.chunk.css",
-    "static/js/main.689ab2a5.chunk.js"
+    "static/js/main.dd53ee17.chunk.js"
   ]
 }
